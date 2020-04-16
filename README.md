@@ -6,7 +6,7 @@ This assignment is an individual exercise: [Directions here](https://github.com/
 ---
 
 ## Practice: Custom Colors and Sounds
-<!-- - [Code]() -->
+- [Code](https://github.com/TrinityTerry/py-inheritance/blob/master/py_files/main.py#L1)
 - [Directions](https://github.com/TrinityTerry/py-inheritance/blob/master/directions/directions.md#practice-custom-colors-and-sounds)
 
 ---
